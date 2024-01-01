@@ -18,6 +18,21 @@ header img {
     color: #dc143c;
 }
 
+.infobox {
+    background-color: #000000;
+    background-image: url("../images/bwhitepic.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.maintitle {
+    font-size: 13px;
+    text-transform: uppercase;
+    border: 1px solid;
+    display: inline-block;
+    padding: 0 20px;
+}
+
 footer {
     background-image: url("../images/footerback.png");
     background-position: center;
